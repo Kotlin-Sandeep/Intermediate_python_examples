@@ -1,0 +1,21 @@
+2017-09-05 11:45:33,105 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2017-09-05 11:46:40,828 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2017-09-05 11:46:40,828 - spam_application.auxiliary.Auxiliary - INFO - creating an instance of Auxiliary
+2017-09-05 11:46:40,828 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2017-09-05 11:46:40,828 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2017-09-05 11:46:40,829 - spam_application.auxiliary.Auxiliary - INFO - doing something
+2017-09-05 11:46:40,829 - spam_application.auxiliary.Auxiliary - INFO - doing something
+2017-09-05 11:46:40,829 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2017-09-05 11:46:40,831 - spam_application - INFO - calling auxiliary_module.some_function()
+2017-09-05 11:46:40,831 - spam_application.auxiliary - INFO - received a call to "some_function"
+2017-09-05 11:46:40,831 - spam_application - INFO - done with auxiliary_module.some_function()
+2017-09-05 11:46:50,653 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2017-09-05 11:46:50,653 - spam_application.auxiliary.Auxiliary - INFO - creating an instance of Auxiliary
+2017-09-05 11:46:50,654 - spam_application - INFO - creating an instance of auxiliary_module.Auxiliary
+2017-09-05 11:46:50,654 - spam_application - INFO - calling auxiliary_module.Auxiliary.do_something
+2017-09-05 11:46:50,654 - spam_application.auxiliary.Auxiliary - INFO - doing something
+2017-09-05 11:46:50,654 - spam_application.auxiliary.Auxiliary - INFO - doing something
+2017-09-05 11:46:50,654 - spam_application - INFO - finished auxiliary_module.Auxiliary.do_something
+2017-09-05 11:46:50,655 - spam_application - INFO - calling auxiliary_module.some_function()
+2017-09-05 11:46:50,655 - spam_application.auxiliary - INFO - received a call to "some_function"
+2017-09-05 11:46:50,655 - spam_application - INFO - done with auxiliary_module.some_function()

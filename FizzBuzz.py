@@ -12,3 +12,4 @@ def printFun(arg):
 
 l1 = [i for i in range(100)]
 printFun(list(l1))
+print 'hello'
